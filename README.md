@@ -5,6 +5,17 @@ Render Server Hosted at <https://f23wb00rachakatla.onrender.com>
 
 ## Vehicles Class
 
+```
+  class Vehicle {
+    constructor(vehicleType, color, price) {
+      this.vehicleType = vehicleType;
+      this.color = color;
+      this.price = price;
+    }
+  }
+
+```
+
 The `Vehicles` class represents different types of vehicles with attributes and types as follows:
 
 ### Attributes
